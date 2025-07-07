@@ -37,7 +37,7 @@ Admins can manage users, menu items, and all orders with full role-based access 
 ⚙️ Getting Started
 
 ### 1️⃣ Clone the repo
-
+⚡ Note: Don’t forget to create your .env file with your database URI and JWT secret before running.
 ```bash
 git clone https://github.com/Mohammad-huwari/online-restaurant.git
 cd online-restaurant
