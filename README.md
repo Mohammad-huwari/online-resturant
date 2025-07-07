@@ -39,6 +39,9 @@ Admins can manage users, menu items, and all orders with full role-based access 
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Mohammad-huwari/online-restaurant.git
+cd online-restaurant
+npm install
+npm run dev
+
 
